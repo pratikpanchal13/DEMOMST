@@ -1,0 +1,6 @@
+framework module Pods_DEMOMST {
+  umbrella header "Pods-DEMOMST-umbrella.h"
+
+  export *
+  module * { export * }
+}
